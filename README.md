@@ -18,6 +18,9 @@
   gsettings set com.canonical.indicator.datetime show-day true
   gsettings set com.canonical.indicator.datetime show-date true
   ```
+- Disable Unity Online Search Feature.
+  Go to System Settings -> Security & Privacy ->Search. In the Search tab, toggle the ‘Include online search results’ option to off. Refer the following screen shot.
+- Install Ubuntu Tweak. http://ubuntu-tweak.com/
 
 ## Sources
 - http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/
